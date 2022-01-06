@@ -1,0 +1,1 @@
+# Preparation-Tips-to-Pass-Microsoft-Designing-and-Implementing-an-Azure-AI-Solution-AI-100-Exam
